@@ -1,24 +1,22 @@
 const INFO = {
   main: {
-    title: "Reactfolio by truethari",
-    name: "Tharindu N.",
-    email: "mail@tharindu.dev",
-    logo: "../logo.png",
+    title: "ChandraXUI",
+    name: "Chandrashekhar Sharma",
+    email: "imchandrashekhar0@gmail.com",
+    logo: "../my_anime_pic.jpg",
     myanime: "../my_anime_pic.jpg",
   },
 
   socials: {
-    twitter: "https://twitter.com/",
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
-    instagram: "https://instagram.com/",
-    stackoverflow: "https://stackoverflow.com/",
-    facebook: "https://facebook.com/",
+    twitter: "https://twitter.com/imshekhar264",
+    github: "https://github.com/shekharsharma264",
+    linkedin: "https://linkedin.com/in/chandrashekhar-sharma-089267251",
+    instagram: "https://instagram.com/shekhar_sharma264",
   },
 
   homepage: {
     title:
-      "Full-Stack Developer in Progress | React Lover | Frontend Developer 🚀.",
+      "Full-Stack Developer in Progress | React Developer | Frontend Developer 🚀",
     description:
       "Yo! I’m drashekhar Sharma, a front-end developer on my way to becoming a full-stack wizard 🧙‍♂️. Currently, I vibe with React and Tailwind CSS, building clean, smooth, and user-friendly web apps. But hey, the backend is on my hit list too – soon I’ll be handling both sides ! I’m here to build, break (a little), and grow big. Let’s make something awesome – and maybe have some laughs on the way! 🎯🔥",
   },
@@ -46,7 +44,7 @@ const INFO = {
         "An interactive web project built with HTML, CSS, JS, and GSAP animations to create smooth and engaging user experiences.",
       logo: "https://cdn.simpleicons.org/html5",
       linkText: "View Project",
-      link: "https://github.com",
+      link: "https://github.com/Shekharsharma264/Modern-Web-Developement/tree/main/ModernWebDevelopement",
     },
 
     {
@@ -66,14 +64,6 @@ const INFO = {
       link: "https://github.com/Shekharsharma264/RandomBackgroundGenerator.git",
     },
 
-    {
-      title: "Project 5",
-      description:
-        "Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-      logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-      linkText: "View Project",
-      link: "https://github.com",
-    },
   ],
 };
 

@@ -49,7 +49,8 @@ const Contact = () => {
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
 							</a>
-							 I usually reply within 24 hours—unless I’m busy saving the world (or binge-watching something 🙃).Prefer DMs? Catch me on Instagram:{" "}
+							
+							  I usually reply within 24 hours—unless I’m busy saving the world (or binge-watching something 🙃).Prefer DMs? Catch me on Instagram:{" "}
 							<a
 								href={INFO.socials.instagram}
 								target="_blank"
